@@ -5,9 +5,9 @@
 ![Cinema](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=cinema)
 ![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=netflix-clone)
 ![Hulu-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=hulu-clone)
-![Amazon-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=amazon-clone)
+
 ![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone)
-![Zoom-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=zoom-clone)
+
 
 - 🔭 I’m currently working on Building an Airbnb Clone
 - 🌱 I’m currently learning Typescript and LitElement 

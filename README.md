@@ -1,10 +1,19 @@
 ### Hi there 👋
 
-![Kaustubh285's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh285&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true&show_owner=true)
+![Kaustubh285's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh285&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)
 <!--![Kaustubh285's languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh285&theme=solarized-dark&layout=compact) -->
-![Cinema](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=cinema&theme=solarized-dark)
-![Cinema](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=hulu-clone&theme=solarized-dark)
-![Cinema](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=netflix-clone&theme=solarized-dark)
+![Cinema](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=cinema)
+![Hulu-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=hulu-clone)
+![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=netflix-clone)
+![Amazon-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=amazon-clone)
+![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone)
+![Zoom-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=zoom-clone)
+
+- 🔭 I’m currently working on Building an Airbnb Clone
+- 🌱 I’m currently learning Typescript and LitElement 
+- 🤔 I’m looking for help with my zoom Clone app issues
+- 📫 How to reach me => email: kaustubh285@gmail.com | ph: +91 9619809793
+
 <!--
 **kaustubh285/kaustubh285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

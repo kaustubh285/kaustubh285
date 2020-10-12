@@ -6,7 +6,7 @@
 ![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone)
 
 
-- 🔭 I’m currently working on Building an Discord Clone
+- 🔭 I’m currently working on building a Discord Clone
 - 🌱 I’m currently learning Typescript and LitElement 
 - 🤔 I’m looking for help with my zoom Clone app issues
 - 📫 How to reach me => email: kaustubh285@gmail.com | ph: +91 9619809793

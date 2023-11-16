@@ -7,10 +7,10 @@ Proficient in Python, React, Node.js, AWS, Docker, MongoDB, and PostgreSQL. I ex
 
 ![Kaustubh285's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh285&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)
 <!--![Kaustubh285's languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh285&theme=solarized-dark&layout=compact) -->
-![Cinema](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=package-random-generator)
-![Airbnb-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ros_conversation_centroid)
-![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ticketing-platform)
-![Bewakoof-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone)
+![Random-Generator-Package](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=package-random-generator)
+![ROS_conversation_centroid](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ros_conversation_centroid)
+![Ticketing-Platform](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ticketing-platform)
+![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone)
 
 
 - 🔭 I’ve recently completed my MSc in Advanced Computer Science from Cardiff University 🏫

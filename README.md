@@ -5,12 +5,12 @@ I'm Kaustubh, an MSc Computer Science grad specializing in data-driven applicati
 Proficient in Python, React, Node.js, AWS, Docker, MongoDB, and PostgreSQL. I excel in roles with high impact and autonomy, especially in innovative environments. Passionate about staying current with technology trends and quick to learn new tools or languages.
 
 
-![Kaustubh285's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh285&show_icons=true&include_all_commits=true&count_private=true&show_owner=true)
+![Kaustubh285's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh285&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=transparent)
 <!--![Kaustubh285's languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh285&theme=solarized-dark&layout=compact) -->
-![Random-Generator-Package](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=package-random-generator)
-![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone)
-![ROS_conversation_centroid](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ros_conversation_centroid)
-![Ticketing-Platform](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ticketing-platform)
+![Random-Generator-Package](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=package-random-generator&theme=transparent)
+![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone&theme=transparent)
+![ROS_conversation_centroid](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ros_conversation_centroid&theme=transparent)
+![Ticketing-Platform](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ticketing-platform&theme=transparent)
 
 
 

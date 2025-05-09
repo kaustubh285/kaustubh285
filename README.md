@@ -1,22 +1,22 @@
-### Hello there!
+### Hi! I'm Kaustubh. I tell robots and computer what to do... sometimes they listen.
 
-I'm Kaustubh, an MSc Computer Science grad specializing in data-driven applications. In the past, as a Full Stack Software Engineer at Dozee, I designed internal dashboards and developed tools for health reports. My experience extends to e-commerce and sales management platforms at Ekasta Tech. 
+A Freelance software engineer based out of London, working with fintech & healthcare companies in the UK. Contributing to a Phd study on Socially aware Robot Navigation. MSc in Advanced Computer Science from Cardiff University, ex-Software Developement Engineer at Dozee
 
-Proficient in Python, React, Node.js, AWS, Docker, MongoDB, and PostgreSQL. I excel in roles with high impact and autonomy, especially in innovative environments. Passionate about staying current with technology trends and quick to learn new tools or languages.
+Email: kaustubhjdeshpande@gmail.com
+Alternate Email: kaustubh@deshpande.page
 
 
 ![Kaustubh285's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh285&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=transparent)
 <!--![Kaustubh285's languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh285&theme=solarized-dark&layout=compact) -->
-![Random-Generator-Package](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=package-random-generator&theme=transparent)
-![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone&theme=transparent)
-![ROS_conversation_centroid](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ros_conversation_centroid&theme=transparent)
-![Ticketing-Platform](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ticketing-platform&theme=transparent)
+<!--! ![Random-Generator-Package](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=package-random-generator&theme=transparent) -->
+<!--! ![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone&theme=transparent) -->
+<!--! ![ROS_conversation_centroid](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ros_conversation_centroid&theme=transparent) -->
+<!--! ![Ticketing-Platform](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ticketing-platform&theme=transparent) -->
 
 
 
 - 🔭 I’ve recently completed my MSc in Advanced Computer Science from Cardiff University 🏫
-- 🌱 I’m currently learning System Design
-- 📫 How to reach me => email: kaustubhjdeshpande@gmail.com | ph: +447435689064
+- 🌱 I’m currently learning System Design, Dagger. Building some cool things for either the Healthcare sector, or for the Hospitality sector.
   
 
 <!--

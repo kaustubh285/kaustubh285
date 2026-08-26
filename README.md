@@ -1,31 +1,22 @@
-### Hi! I'm Kaustubh. I tell robots and computer what to do... sometimes they listen.
+### Hi! I'm Kaustubh. I tell robots and computers what to do... sometimes they listen.
 
-A Software Development Engineer @ Nilacares and based out of London. I have worked with healthcare, fintech and e-commerce companies in the UK & India. Contributed to a Phd study on Socially aware Robot Navigation. MSc in Advanced Computer Science from Cardiff University, ex-Software Developement Engineer at Dozee.
+A Product minded Software / Product Engineer based in London. I've built tools in health tech, fintech and e-commerce companies across the UK and India. Contributed to a PhD study on socially aware robot navigation, which is where the robots stopped listening.
 
-Email: kaustubhjdeshpande@gmail.com
-Alternate Email: kaustubh@deshpande.page
+MSc in Advanced Computer Science, Cardiff University. Most recently _**SDE-2 at Nilacares**_.
 
+**Currently building** 👨‍💻
+| | |
+|---|---|
+| **[stripe-subkit](https://www.npmjs.com/package/stripe-subkit)** | Subscription primitives for Stripe, on npm. |
+| **[Backbrain](https://github.com/kaustubh285/backbrain)** | A TUI journalling tool that pulls context from your git history. Talks to Claude over MCP. |
+| **[Orbit](https://github.com/kaustubh285/orbit)** | Bookmarking that assumes you'll actually come back to the thing you saved. |
 
-[![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustubh285&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+**Reach me at** kaustubhjdeshpande@gmail.com or kaustubh@deshpande.page
 
-<!--![Kaustubh285's languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh285&theme=solarized-dark&layout=compact) -->
-<!--! ![Random-Generator-Package](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=package-random-generator&theme=transparent) -->
-<!--! ![Google-Clone](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=google-clone&theme=transparent) -->
-<!--! ![ROS_conversation_centroid](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ros_conversation_centroid&theme=transparent) -->
-<!--! ![Ticketing-Platform](https://github-readme-stats.vercel.app/api/pin/?username=kaustubh285&repo=ticketing-platform&theme=transparent) -->
+[![Kaustubh's GitHub stats](https://github-stats-extended.vercel.app/api?username=kaustubh285&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
-- I'm currencly building : 👨‍💻
-  - A productivity helper vscode extension which includes scratchpad, todo, reminders, focus timer, quick links etc.
-  - Co-building a centralized restaurant & cafe system which includes POS, employee management, attendance, Table management & Booking system, Rota and more
-  - A browser extension that acts as a container for links giving the user an overview of the domain, and opening the link in an isolated env, and only opening in the main browser post confirmation.
- 
-Happy to colab! Feel free to reach out to me if you want to help build something, or got a crazy idea and need my help with it. 
+Happy to collaborate. If you're building something and need a hand with it, get in touch.
 
 ```python
 exit()
 ```
-
-<!--
-**kaustubh285/kaustubh285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
